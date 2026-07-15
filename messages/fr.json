@@ -1,0 +1,49 @@
+{
+  "Home": {
+    "hero": {
+      "title": "L'Excellence de la Gouvernance",
+      "subtitle": "TAYLORIS GROUP incarne la stabilité, la précision mathématique et l'excellence financière dans un monde en mutation.",
+      "ctaPrimary": "Espace Investisseurs",
+      "ctaSecondary": "Rejoindre le Groupe"
+    },
+    "kpi": {
+      "revenue": "Chiffre d'Affaires Consolidé",
+      "ebitda": "Marge EBITDA",
+      "subsidiaries": "Filiales Actives",
+      "recurrence": "Taux de Récurrence"
+    },
+    "eos": {
+      "title": "Notre Thèse EOS",
+      "subtitle": "Trois piliers fondamentaux soutenant notre croissance durable.",
+      "pillars": {
+        "precision": {
+          "title": "Précision Opérationnelle",
+          "desc": "Optimisation continue des processus par l'analyse data-driven."
+        },
+        "efficiency": {
+          "title": "Efficience Structurelle",
+          "desc": "Architecture agile permettant une scalabilité immédiate."
+        },
+        "excellence": {
+          "title": "Excellence Financière",
+          "desc": "Création de valeur robuste pour nos actionnaires."
+        }
+      }
+    },
+    "news": {
+      "title": "Actualités & Gouvernance",
+      "viewAll": "Voir toutes les actualités",
+      "tags": {
+        "results": "Résultats",
+        "nomination": "Nomination",
+        "partnership": "Partenariat"
+      }
+    }
+  },
+  "Footer": {
+    "legal": "Mentions Légales",
+    "privacy": "Politique de Confidentialité",
+    "terms": "CGU",
+    "copyright": "© 2024 TAYLORIS GROUP. Tous droits réservés."
+  }
+}
